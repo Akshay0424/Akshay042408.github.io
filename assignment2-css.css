@@ -1,3 +1,4 @@
+    
 nav.menu li{
     
     display: inline;
@@ -6,7 +7,7 @@ nav.menu li{
   }
 
 h1{
-      background-image: url("images/ucl-4.png");
+        background-image: url("images/ucl-4.png");
       color:white;
       font-size: 50px;
       width: 700px;
@@ -18,9 +19,8 @@ h1{
  nav.menu a{
     text-decoration: none;
     font-size: 25px;
-    color: white;
+    color:white;
 }
-
 nav.menu ul{
     margin-top: 0px;
 }
@@ -65,17 +65,16 @@ body{
 .flex-container {
     display: flex;
     flex-wrap: wrap;
-}
+  }
   
-.flex-container > div {
-      
+  .flex-container > div {
     background-image: url("images/uefa-3.jpg");
     width: 100%;
     margin: 10px;
     text-align: center;
     line-height: 40px;
     font-size: 30px;
-}
+  }
 
 
 
@@ -122,5 +121,5 @@ body{
   h2{
     color:white;
     font-size: 50px;
-margin-left: 42px;
+margin-left: 40px;
   }
