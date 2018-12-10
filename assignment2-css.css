@@ -68,7 +68,7 @@ body{
   }
   
   .flex-container > div {
-    background-color:darkblue;
+    background-image: url("images/uefa-3.jpg");
     width: 100%;
     margin: 10px;
     text-align: center;
